@@ -4,10 +4,10 @@ This project is a Python-based payroll automation system that generates employee
 
 The system eliminates manual HR work by automating:
 
-Payslip generation
-PDF conversion
-Email distribution
-Email delivery logging
+1. Payslip generation
+2. PDF conversion
+3. Email distribution
+4. Email delivery logging
 
 It is designed for small to medium-sized organizations that manage payroll using Excel.
 
