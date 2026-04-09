@@ -87,12 +87,12 @@ Avoid storing sensitive credentials in public repositories
 
 Possible enhancements include:
 
-Payroll dashboard
-Employee payslip portal
-Web-based interface
-Cloud storage for payslip history
-Retry mechanism for failed emails
-API integration with HR systems
+Payroll dashboard |
+Employee payslip portal |
+Web-based interface |
+Cloud storage for payslip history |
+Retry mechanism for failed emails |
+API integration with HR systems 
 
 👨‍💻 Author
 
