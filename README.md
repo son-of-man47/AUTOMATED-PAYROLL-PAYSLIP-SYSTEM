@@ -93,9 +93,3 @@ Web-based interface |
 Cloud storage for payslip history |
 Retry mechanism for failed emails |
 API integration with HR systems 
-
-👨‍💻 Author
-
-Iroanya David
-
-Data Analyst | Automation Developer
